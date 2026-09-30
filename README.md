@@ -250,19 +250,26 @@ Python-based workflow automation project exploring AI-assisted content processin
 
 # 🎯 Currently Exploring
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   🤖 Generative AI & LLM Applications              │
-│   🔎 Retrieval-Augmented Generation                │
-│   🔗 AI Agents & Agentic Workflows                 │
-│   👁️ Multimodal / Vision-Language Models          │
-│   🧠 NLP & Transformer-based Systems               │
-│   ⚡ AI Backend APIs with FastAPI                  │
-│   🗄️ SQL & Data Engineering                       │
-│   🚀 Production-ready AI Applications              │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+<div align="center">
+
+<table>
+<tr>
+<td align="left">
+
+🤖 **Generative AI & LLM Applications**  
+🔎 **Retrieval-Augmented Generation**  
+🔗 **AI Agents & Agentic Workflows**  
+👁️ **Multimodal / Vision-Language Models**  
+🧠 **NLP & Transformer-based Systems**  
+⚡ **AI Backend APIs with FastAPI**  
+🗄️ **SQL & Data Engineering**  
+🚀 **Production-ready AI Applications**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -272,9 +279,13 @@ Python-based workflow automation project exploring AI-assisted content processin
 
 ### 🤝 Let's build something amazing together!
 
+<br/>
+
 <a href="https://ketan-portfolio.ketansuryavanshi1509.workers.dev/">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-06B6D4?style=for-the-badge"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/ketansuryavanshi1509">
 <img src="https://img.shields.io/badge/GitHub-@ketansuryavanshi1509-181717?style=for-the-badge&logo=github&logoColor=white"/>

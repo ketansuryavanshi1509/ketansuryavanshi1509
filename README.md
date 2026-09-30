@@ -1,102 +1,42 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Ketan%20Suryavanshi&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Generative%20AI%20%7C%20Backend%20Developer&descAlignY=58&descSize=18" width="100%"/>
+# 👋 Hi, I'm Ketan Suryavanshi
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Generative+AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Python+%7C+FastAPI+%7C+Backend+Engineering;Turning+Ideas+into+Real+AI+Applications+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+### AI/ML Engineer · Generative AI · LLMs · Backend Development
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Building+Practical+AI+%26+ML+Systems+%F0%9F%A4%96;Generative+AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Python+%7C+FastAPI+%7C+Backend+Engineering;Turning+Ideas+into+Real-World+Applications+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://ketan-portfolio.ketansuryavanshi1509.workers.dev/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-06b6d4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Portfolio-06B6D4?style=for-the-badge"/>
 </a>
-<a href="https://www.linkedin.com/in/ketan-suryavanshi/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ketansuryavanshi1509@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<a href="https://github.com/ketansuryavanshi1509">
+<img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
-```python
-class KetanSuryavanshi:
+I'm an **AI/ML Engineer** focused on building practical applications using **Machine Learning, Generative AI, Large Language Models, Computer Vision, NLP, and backend technologies**.
 
-    role = "AI / ML Engineer"
+I enjoy taking an idea from **concept → experimentation → implementation → working application**.
 
-    interests = [
-        "Generative AI",
-        "Large Language Models",
-        "RAG Systems",
-        "AI Agents",
-        "Computer Vision",
-        "Deep Learning",
-        "NLP",
-        "Backend Engineering"
-    ]
+My current focus is on building intelligent systems around:
 
-    currently_building = [
-        "LLM-powered applications",
-        "RAG pipelines",
-        "AI agents",
-        "Multimodal AI systems",
-        "Production-ready AI APIs"
-    ]
+- 🤖 Generative AI & LLM applications
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🔗 AI Agents & Agentic Workflows
+- 👁️ Computer Vision & Multimodal AI
+- 🧠 Deep Learning & NLP
+- ⚡ AI-powered backend APIs
+- 🐍 Python-based application development
 
-    philosophy = "Learn → Build → Experiment → Improve 🚀"
-```
-
-I'm an **AI/ML Engineer** passionate about building practical intelligent systems that combine **Machine Learning, Generative AI, LLMs, Computer Vision, and backend engineering**.
-
-I enjoy going beyond tutorials — experimenting with models, building complete applications, designing AI workflows, and turning ideas into working products.
-
----
-
-## 🧠 What I Work With
-
-<div align="center">
-
-### 🤖 Artificial Intelligence
-
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/Generative%20AI-102230?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-102230?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-102230?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Agents-102230?style=for-the-badge&logo=probot&logoColor=white"/>
-
-### 👁️ Computer Vision & Multimodal AI
-
-<img src="https://img.shields.io/badge/Computer%20Vision-102230?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-102230?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/VLM-102230?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-102230?style=for-the-badge&logoColor=white"/>
-
-### 🐍 Languages & Backend
-
-<img src="https://img.shields.io/badge/Python-102230?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/SQL-102230?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-102230?style=for-the-badge&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/Flask-102230?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-102230?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-
-### 🌐 Development
-
-<img src="https://img.shields.io/badge/React-102230?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-102230?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-102230?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-102230?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/Git-102230?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-102230?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>
+> **Learn → Build → Experiment → Improve 🚀**
 
 ---
 
@@ -104,162 +44,224 @@ I enjoy going beyond tutorials — experimenting with models, building complete 
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### 🧠 SmartVision
 
-**Multimodal AI-powered intelligent vision system**
+A multimodal AI system combining computer vision, image understanding, speech processing and intelligent assistance.
 
-Computer Vision • Object Detection • Image Understanding • Speech • AI
+**Focus:**  
+Computer Vision · Deep Learning · Multimodal AI · Speech
 
-[![SmartVision](https://img.shields.io/badge/View%20Project-SmartVision-06b6d4?style=for-the-badge\&logo=github)](https://github.com/ketansuryavanshi1509/SmartVision)
+<a href="https://github.com/ketansuryavanshi1509/SmartVision">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🤖 Generative AI Projects
 
-**A growing collection of practical GenAI, LLM, RAG and AI Agent implementations**
+A continuously evolving collection of practical implementations covering LLMs, RAG pipelines, AI agents, embeddings and GenAI applications.
 
-LLMs • RAG • Embeddings • AI Agents • Vector Databases • Prompt Engineering
+**Focus:**  
+GenAI · LLMs · RAG · Agents · Embeddings
 
-[![GenAI Projects](https://img.shields.io/badge/View%20Projects-GenAI%20Lab-7c3aed?style=for-the-badge\&logo=github)](https://github.com/ketansuryavanshi1509/ketan-generative-ai-projects)
+<a href="https://github.com/ketansuryavanshi1509/ketan-generative-ai-projects">
+<img src="https://img.shields.io/badge/VIEW%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🔍 Totem AI Context Analyzer
 
-**AI-powered semantic context and answer quality analysis system**
+AI-powered semantic analysis system designed to evaluate context, answers and semantic relevance.
 
-Python • FastAPI • Embeddings • NLP • Semantic Similarity • Streamlit
+**Focus:**  
+Python · FastAPI · Embeddings · NLP · Semantic Similarity
 
-[![Totem](https://img.shields.io/badge/View%20Project-Totem-06b6d4?style=for-the-badge\&logo=github)](https://github.com/ketansuryavanshi1509/totem-ai-context-analyzer)
+<a href="https://github.com/ketansuryavanshi1509/totem-ai-context-analyzer">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🎥 Video VLM Agent
 
-**AI agent for understanding and answering questions about video content**
+An AI system for understanding video content using video processing, speech transcription, vision-language models and LLM-based reasoning.
 
-Video Understanding • VLM • Whisper • LLM • Python
+**Focus:**  
+VLM · Video AI · Whisper · LLM · Python
 
-[![Video VLM](https://img.shields.io/badge/View%20Project-Video%20VLM%20Agent-7c3aed?style=for-the-badge\&logo=github)](https://github.com/ketansuryavanshi1509/video-vlm-agent)
+<a href="https://github.com/ketansuryavanshi1509/video-vlm-agent">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### ☕ CafeVerse-AI
 
-**Modern AI-powered cafe web application**
+Modern AI-powered cafe web application built with a contemporary full-stack architecture.
 
-Next.js • React • TypeScript • AI • Modern UI
+**Focus:**  
+Next.js · React · TypeScript · AI · UI
 
-[![CafeVerse](https://img.shields.io/badge/View%20Project-CafeVerse--AI-06b6d4?style=for-the-badge\&logo=github)](https://github.com/ketansuryavanshi1509/CafeVerse-AI)
+<a href="https://github.com/ketansuryavanshi1509/CafeVerse-AI">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🌐 Personal Portfolio
 
-**Interactive portfolio showcasing my AI/ML and software engineering work**
+My interactive developer portfolio showcasing my AI/ML projects, skills and engineering work.
 
-React • TypeScript • Modern UI • Deployment
+**Focus:**  
+React · TypeScript · Frontend · Deployment
 
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-Live-22c55e?style=for-the-badge\&logo=vercel)](https://ketan-portfolio.ketansuryavanshi1509.workers.dev/)
+<a href="https://ketan-portfolio.ketansuryavanshi1509.workers.dev/">
+<img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-22C55E?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🧪 Other Projects
-
-| Project                                                                                                 | Focus                               |
-| ------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 🌱 [Plant Disease Detection](https://github.com/ketansuryavanshi1509/plant-disease-detection-system)    | CNN • Computer Vision • TensorFlow  |
-| 💬 [OpenAI Chatbot](https://github.com/ketansuryavanshi1509/OpenAi_Chatbot)                             | LLM • Python • Conversational AI    |
-| 🧠 [ANN Churn Classification](https://github.com/ketansuryavanshi1509/ANN-churn-classification)         | Neural Networks • Classification    |
-| 📚 [Personalized Story Generator](https://github.com/ketansuryavanshi1509/personalized-story-generator) | Generative AI • NLP                 |
-| ⚙️ [Automated Book Workflow](https://github.com/ketansuryavanshi1509/Automated_book_workflow)           | AI Automation • Python              |
-| 💰 [Money Tracking](https://github.com/ketansuryavanshi1509/money-tracking)                             | JavaScript • Web Development        |
-| 📝 [Blog](https://github.com/ketansuryavanshi1509/blog)                                                 | EJS • Web Development               |
-| 🧮 [Calories Checker](https://github.com/ketansuryavanshi1509/p)                                        | HTML • JavaScript • Web Application |
-
----
-
-# 📊 GitHub Stats
+# 🧠 AI / ML Expertise
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ketansuryavanshi1509&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+| Area | Technologies |
+|---|---|
+| 🤖 Generative AI | LLMs · Prompt Engineering · AI Applications |
+| 🔎 RAG | Embeddings · Vector Databases · Retrieval Pipelines |
+| 🔗 AI Agents | Agentic Workflows · Tool Calling · AI Automation |
+| 👁️ Computer Vision | OpenCV · YOLO · Image Understanding |
+| 🧠 Deep Learning | TensorFlow · Keras · Neural Networks |
+| 💬 NLP | Text Classification · Transformers · Embeddings |
+| ⚡ Backend | Python · FastAPI · Flask · REST APIs |
+| 🗄️ Databases | SQL · PostgreSQL · SQLite |
+| 🌐 Web | React · Next.js · JavaScript · TypeScript |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketansuryavanshi1509&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ketansuryavanshi1509&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-0EA5E9?style=for-the-badge"/>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,sqlite" />
+
+### Web & Tools
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,vscode" />
 
 </div>
 
 ---
 
-# 🎯 Current Focus
+# 📌 Other Projects
+
+### 🌱 Plant Disease Detection System
+CNN-based computer vision application for detecting plant diseases from leaf images.
+
+**Tech:** TensorFlow · Keras · OpenCV · Flask · Streamlit
+
+[View Repository →](https://github.com/ketansuryavanshi1509/plant-disease-detection-system)
+
+---
+
+### 💬 OpenAI Chatbot
+Conversational AI application built using Python and OpenAI technologies.
+
+**Tech:** Python · OpenAI API
+
+[View Repository →](https://github.com/ketansuryavanshi1509/OpenAi_Chatbot)
+
+---
+
+### 🧠 ANN Churn Classification
+Neural-network-based customer churn classification project.
+
+**Tech:** Python · Jupyter Notebook · ANN · Machine Learning
+
+[View Repository →](https://github.com/ketansuryavanshi1509/ANN-churn-classification)
+
+---
+
+### ✍️ Personalized Story Generator
+Generative AI application for creating personalized stories.
+
+**Tech:** Python · Generative AI · NLP
+
+[View Repository →](https://github.com/ketansuryavanshi1509/personalized-story-generator)
+
+---
+
+### ⚙️ Automated Book Workflow
+Python-based workflow automation project exploring AI-assisted content processing.
+
+**Tech:** Python · Automation · AI
+
+[View Repository →](https://github.com/ketansuryavanshi1509/Automated_book_workflow)
+
+---
+
+# 🎯 Currently Exploring
 
 ```text
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║   🤖 Generative AI                                ║
-║   🧠 Large Language Models                        ║
-║   🔎 Retrieval-Augmented Generation               ║
-║   🔗 AI Agents & Agentic Workflows                ║
-║   👁️ Multimodal / Vision-Language Models         ║
-║   ⚡ FastAPI & AI Backend Systems                 ║
-║   🗄️ SQL & Data Engineering                      ║
-║   🚀 Production-ready AI Applications             ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-```
-
----
-
-# 💡 My Engineering Philosophy
-
-> **Don't just learn the technology. Build something with it.**
-
-I believe the fastest way to understand AI is to experiment, break things, debug them, and turn concepts into working systems.
-
-My goal is to build **useful, scalable and intelligent applications** that solve real-world problems.
-
----
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://ketan-portfolio.ketansuryavanshi1509.workers.dev/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-06b6d4?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ketan-suryavanshi/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ketansuryavanshi1509@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ketansuryavanshi1509">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ketansuryavanshi1509&label=Profile%20Views&color=06b6d4&style=flat"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you find my projects interesting, feel free to explore my repositories.
-
-**Building today. Learning every day. Engineering the future with AI. 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=120&section=footer"/>
-
-</div>
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   🤖 Generative AI & LLM Applications              │
+│   🔎 Retrieval-Augmented Generation                │
+│   🔗 AI Agents & Agentic Workflows                 │
+│   👁️ Multimodal / Vision-Language Models          │
+│   🧠 NLP & Transformer-based Systems               │
+│   ⚡ AI Backend APIs with FastAPI                  │
+│   🗄️ SQL & Data Engineering                       │
+│   🚀 Production-ready AI Applications              │
+│                                                     │
+└─────────────────────────────────────────────────────┘

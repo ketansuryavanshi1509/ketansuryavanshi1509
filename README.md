@@ -18,35 +18,24 @@
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
-I'm an **AI/ML Engineer** passionate about building practical intelligent systems using:
+I'm an **AI/ML Engineer** focused on building practical applications using **Machine Learning, Generative AI, Large Language Models, Computer Vision, NLP, and backend technologies**.
 
-- 🤖 Generative AI & Large Language Models
+I enjoy taking an idea from **concept → experimentation → implementation → working application**.
+
+My current focus is on building intelligent systems around:
+
+- 🤖 Generative AI & LLM applications
 - 🔎 Retrieval-Augmented Generation (RAG)
 - 🔗 AI Agents & Agentic Workflows
 - 👁️ Computer Vision & Multimodal AI
 - 🧠 Deep Learning & NLP
-- ⚡ Python Backend & REST APIs
+- ⚡ AI-powered backend APIs
+- 🐍 Python-based application development
 
-I enjoy taking ideas from **concept → experimentation → implementation → working application**.
+> **Learn → Build → Experiment → Improve 🚀**
 
-```python
-class KetanSuryavanshi:
-
-    role = "AI / ML Engineer"
-
-    focus = [
-        "Generative AI",
-        "LLM Applications",
-        "RAG Systems",
-        "AI Agents",
-        "Computer Vision",
-        "Deep Learning",
-        "Backend Engineering"
-    ]
-
-    philosophy = "Learn → Build → Experiment → Improve 🚀"
 ---
 
 # 🚀 Featured Projects

@@ -263,3 +263,37 @@ Python-based workflow automation project exploring AI-assisted content processin
 │   🚀 Production-ready AI Applications              │
 │                                                     │
 └─────────────────────────────────────────────────────┘
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+### 🤝 Let's build something amazing together!
+
+<a href="https://ketan-portfolio.ketansuryavanshi1509.workers.dev/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-06B6D4?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/ketansuryavanshi1509">
+<img src="https://img.shields.io/badge/GitHub-@ketansuryavanshi1509-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ketansuryavanshi1509&label=Profile%20Views&color=06B6D4&style=flat"/>
+
+<br/><br/>
+
+**🚀 Building Intelligent Systems · 🧠 Learning Continuously · ⚡ Engineering with AI**
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=140&section=footer" width="100%"/>
+
+</div>

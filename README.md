@@ -1,43 +1,52 @@
 <div align="center">
 
-# 👋 Hi, I'm Ketan Suryavanshi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=220&section=header&text=Ketan%20Suryavanshi&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Generative%20AI%20%7C%20Backend%20Development&descAlignY=58&descSize=18" width="100%"/>
 
-### AI/ML Engineer · Generative AI · LLMs · Backend Development
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Building+Practical+AI+%26+ML+Systems+%F0%9F%A4%96;Generative+AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Python+%7C+FastAPI+%7C+Backend+Engineering;Turning+Ideas+into+Real-World+Applications+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Building+Practical+AI+%26+ML+Systems+%F0%9F%A4%96;Generative+AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Python+%7C+FastAPI+%7C+Backend+Engineering;Turning+Ideas+into+Real-World+AI+Applications+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
 <a href="https://ketan-portfolio.ketansuryavanshi1509.workers.dev/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Portfolio-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-06B6D4?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/ketansuryavanshi1509">
-<img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
-I'm an **AI/ML Engineer** focused on building practical applications using **Machine Learning, Generative AI, Large Language Models, Computer Vision, NLP, and backend technologies**.
+I'm an **AI/ML Engineer** passionate about building practical intelligent systems using:
 
-I enjoy taking an idea from **concept → experimentation → implementation → working application**.
-
-My current focus is on building intelligent systems around:
-
-- 🤖 Generative AI & LLM applications
+- 🤖 Generative AI & Large Language Models
 - 🔎 Retrieval-Augmented Generation (RAG)
 - 🔗 AI Agents & Agentic Workflows
 - 👁️ Computer Vision & Multimodal AI
 - 🧠 Deep Learning & NLP
-- ⚡ AI-powered backend APIs
-- 🐍 Python-based application development
+- ⚡ Python Backend & REST APIs
 
-> **Learn → Build → Experiment → Improve 🚀**
+I enjoy taking ideas from **concept → experimentation → implementation → working application**.
 
+```python
+class KetanSuryavanshi:
+
+    role = "AI / ML Engineer"
+
+    focus = [
+        "Generative AI",
+        "LLM Applications",
+        "RAG Systems",
+        "AI Agents",
+        "Computer Vision",
+        "Deep Learning",
+        "Backend Engineering"
+    ]
+
+    philosophy = "Learn → Build → Experiment → Improve 🚀"
 ---
 
 # 🚀 Featured Projects
